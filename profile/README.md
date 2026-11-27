@@ -1,6 +1,8 @@
 # Explore your data with FLORN
 
-Start with a table. FLORN helps you find relationships between measurements, compare groups and see where a pattern breaks down. You can bring a question of your own or explore a dataset before deciding what to ask. When you have new data, you can revisit an earlier finding to see whether it still holds.
+FLORN explores tabular data on its own, even when you start without a question. It looks for relationships, formulates hypotheses, and tests them against the data. You can also bring your own question or use a new dataset to check whether an earlier finding still holds.
+
+[Try the interactive penguin demo](https://florn.ai/demo/penguins?lang=en) · [Watch the presentation on YouTube](https://www.youtube.com/watch?v=uyEkZUap_GU)
 
 [Explore FLORN](https://florn.ai/) · [Français](https://florn.ai/?lang=fr) · [Polski](https://florn.ai/?lang=pl)
 
@@ -14,8 +16,6 @@ Do penguins with deeper bills tend to weigh more? In the Palmer Penguins dataset
 | Adélie | +0.60 |
 | Chinstrap | +0.58 |
 | Gentoo | +0.76 |
-
-[Explore the penguin example and its source data](https://florn.ai/#penguins)
 
 ## Check a PDF report against its source data
 
